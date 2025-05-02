@@ -1,0 +1,11 @@
+nltk
+scikit-learn
+numpy
+streamlit
+requests
+beautifulsoup4
+transformers
+rouge-score
+fastapi
+uvicorn
+googletrans==4.0.2
