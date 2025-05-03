@@ -8,4 +8,3 @@ transformers
 rouge-score
 fastapi
 uvicorn
-googletrans==4.0.2
